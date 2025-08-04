@@ -1,9 +1,9 @@
 // 設定
 var CONFIG = {
     // あなたのGASウェブアプリURLに置き換えてください
-    GAS_URL: 'YOUR_GAS_WEB_APP_URL_HERE',
+    GAS_URL: https://script.google.com/macros/s/AKfycbwt3H7AdMAH9NTmEcIrNoxkykBJmUDdPkRVYkaGEkAeJcIix-QdGk8zWlrQvmvAtDA-/exec,
     // あなたのスプレッドシートのCSV公開URLに置き換えてください
-    SPREADSHEET_CSV_URL: 'YOUR_SPREADSHEET_CSV_URL_HERE',
+    SPREADSHEET_CSV_URL: https://docs.google.com/spreadsheets/d/1MrK-RTRATo0i8MSy5UFNNvFiU_mjr1H5v9rqyJSXlrE/edit?usp=sharing,
     AUTH_TOKEN: 'visit_tracker_2024_secure_token'
 };
 
